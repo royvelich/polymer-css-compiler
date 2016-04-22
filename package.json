@@ -1,0 +1,14 @@
+{
+  "name": "psmc",
+  "version": "1.0.0",
+  "description": "Polymer style module compiler - compile CSS files into polymer style modules",
+  "main": "tasks/psmc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roy Velich",
+  "license": "MIT",
+  "dependencies": {
+    "mustache": "^1.2.0"
+  }
+}
