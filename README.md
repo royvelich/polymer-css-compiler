@@ -38,4 +38,4 @@ module.exports = function(grunt) {
 };
 ```
 
-In the example above, all CSS files under the path 'public/polymer-components' will be compiled a polymer style module. The generated polymer style module will inherit the name of its source CSS file.
+In the example above, all the CSS files under the path 'public/polymer-components' will be compiled into polymer style modules. Every generated polymer style module will inherit the name of its source CSS file.
